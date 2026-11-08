@@ -1,0 +1,13 @@
+CP035094.1                final_docker_analysis.py       phylogeny_kmer.png      run_fixed.py
+PO                        gene_heatmap.png               plate-analysis          school21
+SOCfinder                 gene_heatmap_ordered.png       plate-analysis-akeann   simulate_offspring.py
+analyze_two_genomes.py    heatmap.py                     print                   snap
+biosurfactant_genes.xlsx  heatmap_rotated.png            print.py                spba_key
+build_tree.py             heatmap_rotated.py             prokka_stats.xlsx       spba_key:Zone.Identifier
+calculate.py              laba                           quick_analysis.py       tree.py
+calculate2.py             make_final_hyperlinks.py       quick_results           tree_final.py
+collect_all_genes.py      make_final_table.py            reads-qc_reviw_akeann   tree_fixed.py
+collect_stats.py          make_final_table_with_copy.py  results                 validate_parents.py
+docker_socfinder          mendelian_check.py             run_analysis.py
+explore_data.py           my_prokka_db                   run_analysis.py.BACKUP
+final_analysis.py         nano.688.save                  run_antismash_all.sh
